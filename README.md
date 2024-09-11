@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 [![](https://visitcount.itsvg.in/api?id=Shikha115&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-🎨 I’m currently working on: Developing the Care4All website for pet adoption, pet products, and e-learning.<br>🤝 I’m looking to collaborate on: Full-stack projects with ReactJS, Node.js, Express.js, and MongoDB.<br>👐 I’m looking for help with: Internships or opportunities to enhance my Node.js and MERN stack skills.<br>🌱 I’m currently learning: Advanced Node.js, Express.js, MongoDB, and Redux.<br>💬 Ask me about: My web development journey and projects at https://sjportfolio.dcms.site/<br>📫 How to reach me: sjmca2001@gmail.com<br>⚡ Fun fact: I love anime, horror movies, music, dancing, badminton, and exploring new things!
+🎨 I’m currently working on: Developing the Paw Pals website for pet adoption, pet products, and e-learning.<br>🤝 I’m looking to collaborate on: Full-stack projects with ReactJS, Node.js, Express.js, and MongoDB.<br>👐 I’m looking for help with: Internships or opportunities to enhance my Node.js and MERN stack skills.<br>🌱 I’m currently learning: Advanced Node.js, Express.js, MongoDB, and Redux.<br>💬 Ask me about: My web development journey and projects at https://sjportfolio.dcms.site/<br>📫 How to reach me: sjmca2001@gmail.com<br>⚡ Fun fact: I love anime, horror movies, music, dancing, badminton, and exploring new things!
 
 
 ## 🌐 Socials:
